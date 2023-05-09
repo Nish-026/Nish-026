@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript , Data Structures and Algorithms, and Node.js**
 
-- 👨‍🚀  -  [My portfolio](https://Nish-026.github.o/)
+- 👨‍🚀  -  [My portfolio](https://Nish-026.github.io/)
 
 
 
